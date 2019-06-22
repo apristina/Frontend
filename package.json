@@ -34,7 +34,6 @@
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
     "jwt-decode": "latest",
-    "npm": "^6.4.0",
     "rxjs": "6.1.0",
     "rxjs-compat": "6.1.0",
     "web-animations-js": "^2.3.1",
